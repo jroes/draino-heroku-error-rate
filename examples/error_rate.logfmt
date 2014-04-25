@@ -1,0 +1,4 @@
+2014-04-11T15:04:44.116185+00:00 heroku[api]: Release v4 created by jroes@heroku.com
+2014-04-11T15:04:44.116185+00:00 heroku[api]: Release v5 created by jroes@heroku.com
+2014-10-06T21:51:12-07:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path=/ host=myapp.herokuapp.com fwd=17.17.17.17 dyno= connect= service= status=503 bytes=
+2014-10-06T21:51:37-07:00 heroku[router]: at=error code=H13 desc="Connection closed without response" method=GET path=/ host=myapp.herokuapp.com fwd=17.17.17.17 dyno=web.1 connect=3030ms service=9767ms status=503 bytes=0

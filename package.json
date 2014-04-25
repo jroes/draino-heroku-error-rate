@@ -1,0 +1,11 @@
+{
+  "name": "draino-heroku-error-rate",
+  "version": "0.0.1",
+  "description": "",
+  "main": "error_rate.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "draino": "latest"
+  }
+}
