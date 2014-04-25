@@ -3,8 +3,9 @@
   "version": "0.0.1",
   "description": "",
   "main": "error_rate.js",
-  "author": "",
+  "author": "Jon Roes <jroes@jroes.net>",
   "license": "ISC",
+  "bin": { "draino-heroku-error-rate": "./error_rate.js" },
   "dependencies": {
     "draino": "latest"
   }
